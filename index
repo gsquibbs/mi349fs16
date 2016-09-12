@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<img src="banner.jpg" alt="My Banner" >
+<head>
+<meta charset="utf-8">
+<title>GracesWebsite</title>
+<link rel="stylesheet" type="text/css" href="week10.css" />
+</head>
+
+
+
+<body>
+<ul id="nav" >
+	<li><a href="index.html">Home  </a></li>
+    <li><a href="education.html">Education  </a></li>
+    <li><a href="hobbies.html">Hobbies  </a></li>
+    <li><a href="work.html">Work  </a></li>
+</ul>
+<img src="photo of me.jpg" alt="Picture of me" width="300" height="400">
+
+
+
+<h2>Contact Information</h2>
+Grace Squibbs<br/>
+Email - squibbsg@msu.edu<br/>
+ Twitter & Instagram: @gracesquibbs<br/>
+<a href="https://www.linkedin.com/in/grace-squibbs-a82a7b94">My LinkedIn</a>
+<br/><a href="Website outline.pdf">My Outline</a>
+<br/>
+</body>
+</html>
