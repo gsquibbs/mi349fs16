@@ -1,0 +1,15 @@
+#click {
+  color: red;
+  font-size: 30px;
+}
+
+#canclick {
+  color: green;
+  font-size: 10px;
+}
+
+div.main {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
