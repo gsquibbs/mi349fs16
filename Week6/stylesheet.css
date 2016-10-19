@@ -1,0 +1,60 @@
+/* Add your CSS below */
+/* Example: adding a background color to the HTML body */
+body {
+  background: #white;
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.recipe--card {
+  background: #89F294;
+  border-radius: 10px;
+  box-shadow: 0 0 30px rgba(0,0,0,0.2);
+  margin: 0 auto;
+  margin-top: 100px;
+  padding: 1em;
+  text-align: center;
+  width: 500px;
+  height:375px;
+}
+
+.recipe--pic {
+  border-radius: 10%;
+  border: 5px solid #fff;
+  box-shadow: 0 -10px 20px rgba(0,0,0,0.2);
+  margin-top: -60px;
+}
+
+.recipe--title {
+  color: #000;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.recipe--ingredients {
+  color: #000;
+  padding: 1em;
+  font-size: 15px;
+  list-style-type: none;
+}
+
+.recipe--instructions {
+  color: #000;
+  margin: 0.1em 0 0 0;
+  font-size: 15px
+}
+.recipe--source {
+  font-size: 5px;
+  padding: 0;
+}
+
+.recipe--source a {
+  color: #4aa3df;
+  font-size: 2em;
+}
+
+.recipe--source a:hover {
+  color: #FF0AD0;
+}
